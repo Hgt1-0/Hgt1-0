@@ -32,3 +32,5 @@ jobs:
             h1, h2, h3 { color: #D4AF37 !important; }
             .field svg { fill: #8E5BD1 !important; }
             a { color: #B79BE6 !important; }
+            .calendar rect.day { fill: #8E5BD1 !important; }
+            .calendar rect.day[fill="#ebedf0"] { fill: #2A1748 !important; }
