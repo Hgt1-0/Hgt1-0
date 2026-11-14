@@ -50,11 +50,6 @@ AI student at Taylor's University, Malaysia. I build agentic AI, RAG pipelines a
   <img width="100%" src="https://raw.githubusercontent.com/Hgt1-0/Hgt1-0/output/snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cristiano_Ronaldo-Real_Madrid_2009–2018-6A2FB0?style=flat-square&labelColor=12052A" />
-  <img src="https://img.shields.io/badge/450_goals-438_games-D4AF37?style=flat-square&labelColor=12052A" />
-  <img src="https://img.shields.io/badge/Cardiff_2017-4–1-F5F3FA?style=flat-square&labelColor=12052A" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E5BD1,20:6A2FB0,55:3D1670,100:12052A&height=120&section=footer" />
