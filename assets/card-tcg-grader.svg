@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="420" viewBox="0 0 300 420">
+  <defs>
+    <linearGradient id="foil" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D4AF37"/><stop offset="0.35" stop-color="#8E5BD1"/><stop offset="0.6" stop-color="#F5F3FA"/><stop offset="0.8" stop-color="#8E5BD1"/><stop offset="1" stop-color="#D4AF37"/>
+    </linearGradient>
+    <linearGradient id="holo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0.30" stop-color="#F5F3FA" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#B79BE6" stop-opacity="0.16"/>
+      <stop offset="0.50" stop-color="#F5F3FA" stop-opacity="0.30"/>
+      <stop offset="0.56" stop-color="#D4AF37" stop-opacity="0.18"/>
+      <stop offset="0.68" stop-color="#F5F3FA" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 -1;-1 -1;1 1;1 1" keyTimes="0;0.15;0.55;1" dur="5s" begin="2.8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="art" cx="0.5" cy="0.45" r="0.7">
+      <stop offset="0" stop-color="#3A1A6A"/><stop offset="1" stop-color="#160A30"/>
+    </radialGradient>
+    <pattern id="grid" width="14" height="14" patternUnits="userSpaceOnUse"><path d="M14 0 H0 V14" fill="none" stroke="#8E5BD1" stroke-opacity="0.13"/></pattern>
+    <clipPath id="clip"><rect x="2" y="2" width="296" height="416" rx="18"/></clipPath>
+  </defs>
+  <style>.mono { font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace; } .sans { font-family: 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; }</style>
+  <rect x="2" y="2" width="296" height="416" rx="18" fill="#120827" stroke="url(#foil)" stroke-width="3"/>
+  <rect x="11" y="11" width="278" height="398" rx="12" fill="none" stroke="#8E5BD1" stroke-opacity="0.35"/>
+  <text x="22" y="43" class="mono" font-size="10.5" font-weight="700" letter-spacing="2" fill="#B79BE6">WEB3</text>
+  <rect x="195.2" y="27" width="85" height="22" rx="11" fill="none" stroke="#D4AF37" stroke-opacity="0.7"/><text x="238" y="42" text-anchor="middle" class="mono" font-size="10.5" font-weight="700" letter-spacing="1" fill="#D4AF37">HACKATHON</text>
+  <text x="22" y="82" class="sans" font-size="23" font-weight="700" fill="#F5F3FA">TCG Grader</text>
+  <rect x="22" y="98" width="256" height="140" rx="10" fill="url(#art)" stroke="#8E5BD1" stroke-opacity="0.5"/>
+  <rect x="22" y="98" width="256" height="140" rx="10" fill="url(#grid)"/>
+  <g transform="translate(0 -2)"><g transform="rotate(-10 150 170)"><rect x="118" y="122" width="64" height="92" rx="7" fill="#2A1450" stroke="#D4AF37" stroke-width="2.5"/><rect x="126" y="130" width="48" height="40" rx="4" fill="#8E5BD1" fill-opacity="0.5"/>
+<path d="M150 176 l4 9 10 1 -7.5 7 2 10 -8.5 -5 -8.5 5 2 -10 -7.5 -7 10 -1 z" fill="#D4AF37"/></g></g>
+  <text class="sans" font-size="14" fill="#E9E3F5"><tspan x="22" y="272">Grades trading cards and</tspan><tspan x="22" y="292">mints them as NFTs on Solana.</tspan></text>
+  <rect x="22" y="314" width="256" height="1" fill="#8E5BD1" fill-opacity="0.45"/>
+  <text x="22" y="340" class="mono" font-size="11.5" fill="#B79BE6">React · TypeScript · Crossmint</text>
+  <text x="22" y="392" class="mono" font-size="10" letter-spacing="2" fill="#6E5C92">HGT1-0</text>
+  <text x="278" y="392" class="mono" font-size="10" letter-spacing="2" fill="#6E5C92" text-anchor="end">05 / 06</text>
+  <rect x="2" y="2" width="296" height="416" rx="18" fill="url(#holo)" clip-path="url(#clip)"/>
+</svg>
