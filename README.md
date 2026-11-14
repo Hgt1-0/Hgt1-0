@@ -12,6 +12,10 @@
 <br>
 
 <p align="center">
+  <img src="assets/timeline.svg" width="100%" />
+</p>
+
+<p align="center">
   <img src="assets/card-contract-companion.svg" width="32%" />
   <img src="assets/card-voxelsort.svg" width="32%" />
   <img src="assets/card-shipsentry.svg" width="32%" />
@@ -25,11 +29,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,java,ts,js&theme=dark&perline=8" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,vite,threejs,flutter,dart,nodejs,fastapi,tailwind&theme=dark&perline=8" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postgres,mongodb,figma,vscode&theme=dark&perline=8" />
+  <img src="assets/orbit.svg" width="100%" />
 </p>
 
 <br>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <defs><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3D1F6E"/><stop offset="0.75" stop-color="#8E5BD1"/><stop offset="1" stop-color="#D4AF37"/></linearGradient></defs>
+  <style>
+    .mono { font-family: 'JetBrains Mono', Consolas, 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; }
+    .draw { stroke-dasharray: 1020; animation: draw 2.4s ease-out backwards; }
+    @keyframes draw { from { stroke-dashoffset: 1020 } to { stroke-dashoffset: 0 } }
+    .pop { animation: pop .5s ease-out backwards; }
+    @keyframes pop { from { opacity: 0 } to { opacity: 1 } }
+    .ring { animation: ring 2s ease-out 2.6s infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes ring { from { opacity: .9; transform: scale(1) } to { opacity: 0; transform: scale(2.4) } }
+  </style>
+  <rect x="4" y="4" width="1192" height="242" rx="20" fill="#0E0620" stroke="#3D1F6E" stroke-width="1.5"/>
+  <line x1="90" y1="118" x2="1110" y2="118" stroke="#2A1450" stroke-width="3" stroke-linecap="round"/>
+  <line class="draw" x1="90" y1="118" x2="1110" y2="118" stroke="url(#ln)" stroke-width="3" stroke-linecap="round"/>
+  <g class="pop" style="animation-delay:0.30s">
+    <text x="90" y="90" text-anchor="middle" class="mono" font-size="12" letter-spacing="2.5" fill="#6E5C92">MAY 2026</text>
+    <circle cx="90" cy="118" r="6" fill="#120827" stroke="#8E5BD1" stroke-width="2.5"/>
+    <text x="90" y="160" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#F5F3FA">TCG Grader</text>
+    <text x="90" y="184" text-anchor="middle" class="sans" font-size="14" fill="#B79BE6">Solana hackathon</text>
+  </g><g class="pop" style="animation-delay:0.75s">
+    <text x="345" y="90" text-anchor="middle" class="mono" font-size="12" letter-spacing="2.5" fill="#6E5C92">JUL 2026</text>
+    <circle cx="345" cy="118" r="6" fill="#120827" stroke="#8E5BD1" stroke-width="2.5"/>
+    <text x="345" y="160" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#F5F3FA">VendorGuard</text>
+    <text x="345" y="184" text-anchor="middle" class="sans" font-size="14" fill="#B79BE6">Lead developer</text>
+  </g><g class="pop" style="animation-delay:1.20s">
+    <text x="600" y="90" text-anchor="middle" class="mono" font-size="12" letter-spacing="2.5" fill="#6E5C92">OCT 2026</text>
+    <circle cx="600" cy="118" r="6" fill="#120827" stroke="#8E5BD1" stroke-width="2.5"/>
+    <text x="600" y="160" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#F5F3FA">ShipSentry</text>
+    <text x="600" y="184" text-anchor="middle" class="sans" font-size="14" fill="#B79BE6">Averis hackathon</text>
+  </g><g class="pop" style="animation-delay:1.65s">
+    <text x="855" y="90" text-anchor="middle" class="mono" font-size="12" letter-spacing="2.5" fill="#6E5C92">OCT 2026</text>
+    <circle cx="855" cy="118" r="6" fill="#120827" stroke="#8E5BD1" stroke-width="2.5"/>
+    <text x="855" y="160" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#F5F3FA">VoxelSort</text>
+    <text x="855" y="184" text-anchor="middle" class="sans" font-size="14" fill="#B79BE6">Dormathon 2026</text>
+  </g><g class="pop" style="animation-delay:2.10s">
+    <text x="1110" y="90" text-anchor="middle" class="mono" font-size="12" letter-spacing="2.5" fill="#D4AF37">NOW</text>
+    <circle cx="1110" cy="118" r="9" fill="none" stroke="#D4AF37" stroke-width="2" class="ring"/><circle cx="1110" cy="118" r="6" fill="#D4AF37" stroke="#D4AF37" stroke-width="2.5"/>
+    <text x="1110" y="160" text-anchor="middle" class="sans" font-size="19" font-weight="700" fill="#F5F3FA">Next role</text>
+    <text x="1110" y="184" text-anchor="middle" class="sans" font-size="14" fill="#D4AF37">AI/ML internship</text>
+  </g>
+</svg>
