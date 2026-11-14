@@ -35,9 +35,9 @@
 <br>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Hgt1-0/Hgt1-0/output-3d-contrib/profile-madrid.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Hgt1-0/Hgt1-0/output-3d-contrib/profile-madrid.svg?v=2" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Hgt1-0/Hgt1-0/output/snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Hgt1-0/Hgt1-0/output/snake.svg?v=2" />
 </p>
