@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs><linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D4AF37"/><stop offset="1" stop-color="#8E5BD1"/></linearGradient></defs>
+  <style>
+    .sans { font-family: 'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; }
+    .dot { animation: pulse 1.8s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes pulse { 0%,100% { opacity: 1; transform: scale(1) } 50% { opacity: .35; transform: scale(1.6) } }
+  </style>
+  <rect x="4" y="4" width="1192" height="222" rx="20" fill="#0E0620" stroke="#3D1F6E" stroke-width="1.5"/>
+  <rect x="40" y="44" width="4" height="142" rx="2" fill="url(#bar)"/>
+  <text class="sans" font-size="21" fill="#E9E3F5"><tspan x="70" y="78">Final-year Computer Science (AI) student at Taylor's University.</tspan><tspan x="70" y="114">I build LLM applications, mostly RAG pipelines and agentic workflows.</tspan><tspan x="70" y="150">I've led development on several team projects and made the</tspan><tspan x="70" y="186">Dean's List five semesters in a row.</tspan></text>
+  <line x1="860" y1="44" x2="860" y2="186" stroke="#3D1F6E"/>
+  <rect x="900" y="52" width="250" height="38" rx="19" fill="#160A30" stroke="#D4AF37" stroke-opacity="0.8"/><text x="1025" y="77" text-anchor="middle" class="sans" font-size="16" font-weight="600" fill="#F5F3FA">5× Dean's List</text><rect x="900" y="104" width="250" height="38" rx="19" fill="#160A30" stroke="#B79BE6" stroke-opacity="0.8"/><text x="1025" y="129" text-anchor="middle" class="sans" font-size="16" font-weight="600" fill="#F5F3FA">LLMs · RAG · Agents</text><rect x="900" y="156" width="250" height="38" rx="19" fill="#160A30" stroke="#D4AF37" stroke-opacity="0.8"/><circle class="dot" cx="922" cy="175" r="5" fill="#D4AF37"/><text x="1035" y="181" text-anchor="middle" class="sans" font-size="16" font-weight="600" fill="#F5F3FA">Open to internships</text>
+</svg>

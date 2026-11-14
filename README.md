@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/timeline.svg" width="100%" />
+  <img src="assets/about.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -30,6 +30,10 @@
 
 <p align="center">
   <img src="assets/orbit.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/timeline.svg" width="100%" />
 </p>
 
 <br>
