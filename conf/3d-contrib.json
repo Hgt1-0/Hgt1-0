@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-madrid.svg",
+  "backgroundColor": "#0E0620",
+  "foregroundColor": "#E9E3F5",
+  "strongColor": "#D4AF37",
+  "weakColor": "#6B5A8A",
+  "radarColor": "#8E5BD1",
+  "growingAnimation": true,
+  "contribColors": ["#1F1238", "#3E1F6E", "#5E2FA3", "#8E5BD1", "#D4AF37"]
+}
