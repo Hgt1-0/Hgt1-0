@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" />
+  <img src="assets/about-v2.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/orbit.svg" width="100%" />
+  <img src="assets/orbit-v2.svg" width="100%" />
 </p>
 
 <p align="center">
