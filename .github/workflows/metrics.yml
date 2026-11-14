@@ -26,7 +26,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_languages_limit: 6
-          plugin_languages_colors: "#D4AF37, #8E5BD1, #6A2FB0, #B79BE6, #3E1F6E, #E9E3F5"
+          plugin_languages_colors: "0:#D4AF37, 1:#8E5BD1, 2:#6A2FB0, 3:#B79BE6, 4:#3E1F6E, 5:#E9E3F5"
           extras_css: |
             svg { color: #9A8BB8 !important; }
             h1, h2, h3 { color: #D4AF37 !important; }
