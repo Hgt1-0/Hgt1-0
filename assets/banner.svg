@@ -24,6 +24,6 @@
     <path d="M-12 5 L-12 -4 L-6 1 L0 -7 L6 1 L12 -4 L12 5 Z"/><rect x="-12" y="7" width="24" height="2.6" rx="1"/>
   </g>
   <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="52" font-weight="800" letter-spacing="4" fill="url(#shine)">HIMANSHU TOLANI</text>
-  <text x="600" y="222" text-anchor="middle" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="16" letter-spacing="3" fill="#B79BE6">agentic AI · RAG · computer vision</text>
+  <text x="600" y="222" text-anchor="middle" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="16" letter-spacing="3" fill="#B79BE6">LLMs · agentic AI · RAG</text>
   <text x="600" y="296" text-anchor="middle" font-family="'JetBrains Mono',Consolas,'Courier New',monospace" font-size="12" letter-spacing="3" fill="#6E5C92">TAYLOR'S UNIVERSITY · MALAYSIA</text>
 </svg>
